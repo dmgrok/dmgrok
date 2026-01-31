@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dmgrok
-- 👀 I’m interested in bikes, tennis & outdoor activities
 - 🌱 I’m currently learning AI for coding stuff
-- 💞️ I’m looking to collaborate on DevEx, Frontend and AI
+- 💞️ I’m looking to collaborate on DevEx and AI
 - 📫 How to reach me by linkedin at davidgraca
 
 <!---
